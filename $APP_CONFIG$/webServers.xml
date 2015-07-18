@@ -22,6 +22,13 @@
       <webServer id="8f74ebce-74c6-46d4-a6b2-0ac1182da2f3" name="Silver" url="http://silver.dev/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="5867a0f9-f028-4e12-b395-af514dc6d001" name="Dev Server - Work" url="http://192.168.1.4">
+        <fileTransfer host="192.168.1.4" port="22" accessType="SFTP" username="developer">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
