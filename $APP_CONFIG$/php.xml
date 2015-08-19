@@ -1,6 +1,8 @@
 <application>
   <component name="MessDetector">
-    <option name="messDetectorPath" value="/usr/local/bin/phpmd" />
+    <phpmd_settings>
+      <MessDetectorConfiguration tool_path="/usr/local/bin/phpmd" />
+    </phpmd_settings>
   </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
 </application>
