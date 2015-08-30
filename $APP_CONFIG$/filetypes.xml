@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="install" type="PHP" />
+      <mapping pattern="Welcome" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="othernotes" type="PLAIN_TEXT" />
-      <mapping pattern="Welcome" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
-      <mapping ext="install" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
