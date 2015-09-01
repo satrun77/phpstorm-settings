@@ -23,7 +23,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="5867a0f9-f028-4e12-b395-af514dc6d001" name="Dev Server - Work" url="http://192.168.1.4">
-        <fileTransfer host="192.168.1.4" port="22" accessType="SFTP" username="developer">
+        <fileTransfer host="192.168.1.4" port="22" accessType="SFTP" password="df9cdf9fdff3dfcfdfc6dfc6dfc5dfdd" username="developer">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
