@@ -29,6 +29,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="029cd08f-e40c-459f-9559-990d6da6e494" name="msdskip.samdog.co.nz" url="http://msdskip.samdog.co.nz/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
