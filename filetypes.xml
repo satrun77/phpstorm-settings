@@ -7,6 +7,7 @@
       <mapping pattern="othernotes" type="PLAIN_TEXT" />
       <mapping pattern="Welcome" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="entityhpauicontroller" type="PLAIN_TEXT" />
       <mapping ext="inc___jb_bak___" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
