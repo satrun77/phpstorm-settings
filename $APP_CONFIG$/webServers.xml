@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="1cb8920d-8710-4908-813e-07e7de54e5ef" name="Site" url="http://103.253.147.26">
+        <fileTransfer host="103.253.147.26" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" passphrase="dfccdfcbdfdddfd0dfc3dfcfdf9ddf9d" username="mohamed" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
