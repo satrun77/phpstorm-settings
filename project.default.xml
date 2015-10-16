@@ -7,6 +7,12 @@
         </behat_settings>
       </component>
       <component name="BladeInjectionConfiguration" escapedTextEnd="!!}" escapedTextStart="{!!" />
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+      </component>
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
@@ -96,7 +102,7 @@
       </component>
       <component name="ProjectRootManager" version="2" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="SensioLabs.Insight" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
         <property name="settings.editor.splitter.proportion" value="0.37424242" />
       </component>
       <component name="VagrantProjectSettings">
