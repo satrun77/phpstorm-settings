@@ -37,7 +37,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="95ef6d27-8958-4546-8d9a-cb2482929541" name="work" url="http://dev.samdog.co.nz">
-        <fileTransfer host="dev.samdog.co.nz" port="8022" accessType="SFTP" username="developer">
+        <fileTransfer host="dev.samdog.co.nz" port="8022" accessType="SFTP" password="df9cdf9fdff3dfcfdfc6dfc6dfc5dfdd" username="developer">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
