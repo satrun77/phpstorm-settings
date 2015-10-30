@@ -102,7 +102,7 @@
       </component>
       <component name="ProjectRootManager" version="2" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
         <property name="settings.editor.splitter.proportion" value="0.37424242" />
       </component>
       <component name="VagrantProjectSettings">
