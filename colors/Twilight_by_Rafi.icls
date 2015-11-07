@@ -1,4 +1,4 @@
-<scheme name="Rafi" version="141" parent_scheme="Default">
+<scheme name="Rafi" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="0.8" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
@@ -29,6 +29,7 @@
         <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -95,6 +96,7 @@
         <option name="BACKGROUND" value="2d2d2d" />
       </value>
     </option>
+    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a6a6a6" />
@@ -221,13 +223,11 @@
       <value>
         <option name="FOREGROUND" value="6185a6" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="Cmd.EXPRESSION">
       <value>
         <option name="FOREGROUND" value="9b703f" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="Cmd.KEYWORD">
@@ -242,6 +242,18 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffffff" />
@@ -288,6 +300,7 @@
         <option name="BACKGROUND" value="141414" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="80" />
@@ -402,6 +415,15 @@
         <option name="BACKGROUND" value="61d30" />
       </value>
     </option>
+    <option name="IGNORE.BRACKET" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="IGNORE.COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="IGNORE.HEADER" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
+    <option name="IGNORE.NEGATION" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="IGNORE.SECTION" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="IGNORE.SLASH" baseAttributes="DEFAULT_COMMA" />
+    <option name="IGNORE.SYNTAX" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="IGNORE.UNUSED_ENTRY" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="INCLUDE_JAVA_CALL">
       <value>
         <option name="FOREGROUND" value="f7b891" />
@@ -414,6 +436,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="262323" />
@@ -501,7 +524,6 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="618588" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -530,7 +552,6 @@
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6185a6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.NUMBER">
@@ -548,7 +569,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="9933cc" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.STATIC_MEMBER_VARIABLE">
@@ -591,7 +611,6 @@
     <option name="MARKDOWN.CODE">
       <value>
         <option name="FOREGROUND" value="6185a6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_1">
@@ -599,7 +618,6 @@
         <option name="FOREGROUND" value="6185a6" />
         <option name="BACKGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_2">
@@ -607,7 +625,6 @@
         <option name="FOREGROUND" value="6185a6" />
         <option name="BACKGROUND" value="c8c8c8" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_3">
@@ -615,26 +632,22 @@
         <option name="FOREGROUND" value="6185a6" />
         <option name="BACKGROUND" value="dcdcdc" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MARKDOWN.IMAGE">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MARKDOWN.LINK">
       <value>
         <option name="FOREGROUND" value="6185a6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MARKDOWN.QUOTE">
       <value>
         <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" value="e6e6e6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -680,6 +693,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="9b703f" />
@@ -1127,6 +1141,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
