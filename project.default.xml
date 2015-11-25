@@ -1,6 +1,6 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject>
+    <defaultProject version="4">
       <component name="Behat">
         <behat_settings>
           <BehatSettings />
@@ -28,6 +28,9 @@
       </component>
       <component name="LaravelPluginSettings">
         <option name="useAutoPopup" value="true" />
+      </component>
+      <component name="NamedScopeManager">
+        <order />
       </component>
       <component name="PhpUnit">
         <phpunit_settings>
@@ -91,6 +94,10 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
+      <component name="ProjectModuleManager">
+        <modules />
+      </component>
+      <component name="ProjectRootManager" version="2" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="SensioLabs.Insight" />
         <property name="settings.editor.splitter.proportion" value="0.37424242" />
