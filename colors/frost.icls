@@ -405,27 +405,6 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
-    <option name="HAML_CLASS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="HAML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="HAML_ID">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="HAML_TAG">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="cda0d5" />
@@ -1183,11 +1162,6 @@
     <option name="SASS_CONSTANT">
       <value>
         <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="SASS_DIRECTIVE">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
     <option name="SASS_MIXIN">
