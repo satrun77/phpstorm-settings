@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-color $FileName$" />
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="-x $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .less files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -27,20 +27,26 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="-rlFpgovc --exclude '.git*' --exclude '.idea*' --exclude .snapshot --exclude .gitignore " />
+      <option name="arguments" value="--compile $FileDir$/$FileName$" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="" />
+      <option name="description" value="Compiles .less files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="UNKNOWN" />
+      <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
-      <option name="name" value="rsync" />
-      <option name="output" value="$USER_HOME$/Desktop/WWW/workspace/public/flashcard/2.6/src/Moo/FlashCardBundle/" />
+      <option name="name" value="LESS Moodle" />
+      <option name="output" value="style/$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
-        <array />
+        <array>
+          <FilterInfo>
+            <option name="description" value="lessc error format" />
+            <option name="name" value="lessc" />
+            <option name="regExp" value="$MESSAGE$$FILE_PATH$?:$LINE$:$COLUMN$" />
+          </FilterInfo>
+        </array>
       </option>
-      <option name="outputFromStdout" value="false" />
+      <option name="outputFromStdout" value="true" />
       <option name="passParentEnvs" value="true" />
-      <option name="program" value="rsync" />
+      <option name="program" value="/usr/local/bin/recess" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
