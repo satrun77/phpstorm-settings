@@ -59,6 +59,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="ATTR_INTERNAL_CALL_ID">
+      <value>
+        <option name="FOREGROUND" value="a2cff5" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -409,15 +415,6 @@
         <option name="BACKGROUND" value="61d30" />
       </value>
     </option>
-    <option name="IGNORE.BRACKET" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="IGNORE.HEADER" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
-    <option name="IGNORE.NEGATION" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.SECTION" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="IGNORE.SLASH" baseAttributes="DEFAULT_COMMA" />
-    <option name="IGNORE.SYNTAX" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="IGNORE.UNUSED_ENTRY" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="INCLUDE_JAVA_CALL">
       <value>
         <option name="FOREGROUND" value="f7b891" />
@@ -497,6 +494,9 @@
         <option name="FOREGROUND" value="cccccb" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="JS.DOC_MARKUP">
+      <value />
     </option>
     <option name="JS.DOC_TAG">
       <value>
@@ -594,6 +594,12 @@
     <option name="JSP_DIRECTIVE_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="141414" />
+      </value>
+    </option>
+    <option name="JSP_DIRECTIVE_NAME">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.CODE">
