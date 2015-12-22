@@ -35,7 +35,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="029cd08f-e40c-459f-9559-990d6da6e494" name="msdskip.samdog.co.nz" url="http://msdskip.samdog.co.nz/">
-        <fileTransfer accessType="LOCAL" />
+        <fileTransfer host="dev.samdog.co.nz" port="8022" rootFolder="/var/www/msdskip.samdog.co.nz/public_html/app" accessType="SFTP" username="developer" />
       </webServer>
       <webServer id="ea52cf67-834b-425e-a52a-5d5f2c34d144" name="education" url="http://education.samdog.co.nz">
         <fileTransfer mountedRoot="/Volumes/Websites-1/education.samdog.co.nz/public_html" accessType="MOUNT" />
