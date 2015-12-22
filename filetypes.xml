@@ -9,10 +9,10 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".ss" type="PLAIN_TEXT" />
+      <mapping pattern=".local_profile" type="PLAIN_TEXT" />
       <mapping pattern="RoutesCest" type="PLAIN_TEXT" />
       <mapping pattern="node_type_form" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".local_profile" type="PLAIN_TEXT" />
       <mapping pattern="form_form1" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
