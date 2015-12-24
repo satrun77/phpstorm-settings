@@ -58,12 +58,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ATTR_INTERNAL_CALL_ID">
-      <value>
-        <option name="FOREGROUND" value="a2cff5" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
