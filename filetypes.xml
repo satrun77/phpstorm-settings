@@ -25,6 +25,7 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="js___jb_bak___" type="PLAIN_TEXT" />
       <mapping ext="ss___jb_bak___" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
