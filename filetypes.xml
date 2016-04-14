@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="info" type="Ini" />
@@ -8,8 +8,8 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
-      <mapping pattern=".ss" type="PLAIN_TEXT" />
       <mapping pattern=".local_profile" type="PLAIN_TEXT" />
+      <mapping pattern=".ss" type="PLAIN_TEXT" />
       <mapping pattern="RoutesCest" type="PLAIN_TEXT" />
       <mapping pattern="node_type_form" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -26,6 +26,7 @@
       <mapping ext="js___jb_bak___" type="PLAIN_TEXT" />
       <mapping ext="ss___jb_bak___" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern=".moo.yml-sample" type="YAML" />
     </extensionMap>
   </component>
 </application>
