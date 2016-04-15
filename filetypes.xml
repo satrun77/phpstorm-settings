@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="info" type="Ini" />
@@ -7,14 +7,14 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".local_profile" type="PLAIN_TEXT" />
       <mapping pattern=".ss" type="PLAIN_TEXT" />
-      <mapping pattern="sss" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="RoutesCest" type="PLAIN_TEXT" />
-      <mapping pattern="form_form1" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="node_type_form" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="form_form1" type="PLAIN_TEXT" />
+      <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="ss___jb_old___" type="PLAIN_TEXT" />
