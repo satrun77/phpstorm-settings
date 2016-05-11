@@ -3,7 +3,7 @@
     <option name="customScope" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
     <option name="defaultScopeName" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
     <option name="SEARCH_SCOPE" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,8 +14,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
