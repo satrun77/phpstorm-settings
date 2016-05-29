@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.ss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,6 +18,7 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*</mask>
+      <mask>*.ss</mask>
     </recentFileMasks>
   </component>
 </application>
