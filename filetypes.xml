@@ -28,6 +28,7 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="js___jb_bak___" type="PLAIN_TEXT" />
       <mapping ext="ss___jb_bak___" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern=".moo.yml-sample" type="YAML" />
     </extensionMap>
