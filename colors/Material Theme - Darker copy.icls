@@ -3,21 +3,15 @@
     <property name="created">2016-08-28T08:04:47</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-08-28T08:10:22</property>
+    <property name="modified">2016-08-28T08:21:06</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Mono Medium for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
