@@ -1478,9 +1478,6 @@
         <option name="BACKGROUND" value="859900" />
       </value>
     </option>
-    <option name="MESSAGE_ARGUMENT">
-      <value />
-    </option>
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="859900" />
