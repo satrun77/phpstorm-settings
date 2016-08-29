@@ -28,18 +28,24 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="5867a0f9-f028-4e12-b395-af514dc6d001" name="Dev Server - Work" url="http://192.168.1.4">
-        <fileTransfer host="192.168.1.4" port="22" accessType="SFTP" password="df9cdf9fdff3dfcfdfc6dfc6dfc5dfdd" username="developer">
+        <fileTransfer host="192.168.1.4" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="029cd08f-e40c-459f-9559-990d6da6e494" name="msdskip.samdog.co.nz" url="http://msdskip.samdog.co.nz/">
-        <fileTransfer host="dev.samdog.co.nz" port="8022" rootFolder="/var/www/msdskip.samdog.co.nz/public_html/app" accessType="SFTP" username="developer" />
+        <fileTransfer host="dev.samdog.co.nz" port="8022" rootFolder="/var/www/msdskip.samdog.co.nz/public_html/app" accessType="SFTP">
+          <option name="port" value="8022" />
+        </fileTransfer>
       </webServer>
       <webServer id="ea52cf67-834b-425e-a52a-5d5f2c34d144" name="education" url="http://education.samdog.co.nz">
         <fileTransfer mountedRoot="/Volumes/Websites-1/education.samdog.co.nz/public_html" accessType="MOUNT" />
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAA4LEkH7od0sccCJgWhMPamUqraDZHgtiEtIBASxmcmTuIJDDFy2k087spbpq6ZRwITyyIGdoBCdrfxhmTk6rnmbGyKShkoFowUQG+jYd2gFFwPrwH5j+kGD1i5MHrOxpa6+A5cTbp9lhBpJQiOWvULGzOCUzzJDfyDd7mZkC6s6kHLU384Tug1JkCE7l7xpbfCNmN94EpuDV0cYCFgSijXlExgUMJIsnONSDYeqV0NTUbU/8ZawS/tD1h+QWDSNRYlKllyyIIxhTzRSJXw0MAkcB++GWg3anCxBTHMHL3vxgsXhqIdfdaWch0/QFa8AJlCg==</data>
   </component>
 </application>
