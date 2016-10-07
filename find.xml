@@ -21,6 +21,7 @@
       <mask>*.ss</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*Relations.php</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
