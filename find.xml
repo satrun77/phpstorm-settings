@@ -4,10 +4,12 @@
     <option name="customScope" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
     <option name="defaultScopeName" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +22,8 @@
       <mask>*.json</mask>
       <mask>*.ss</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
       <mask>*.php</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
