@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
-    <option name="defaultScopeName" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/Websites/hpa.samdog.co.nz/public_html/sites/all/modules/custom/hpa/includes/hpa.EntityHpaUIController.inc'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
