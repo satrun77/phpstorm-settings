@@ -1,5 +1,5 @@
 <application>
   <component name="TemplateDataLanguagePatterns">
-    <pattern value="*.ss" lang="XHTML" />
+    <pattern value="*.ss" lang="HTML" />
   </component>
 </application>
