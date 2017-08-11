@@ -22,6 +22,10 @@
       <mask>.js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
