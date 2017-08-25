@@ -1,6 +1,5 @@
 <application>
   <component name="FridayMarioConfig">
-    <option name="actionSoundsEnabled" value="false" />
     <option name="backgroundMusicEnabled" value="false" />
   </component>
 </application>
