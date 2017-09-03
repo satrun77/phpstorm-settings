@@ -1,10 +1,5 @@
 <application>
   <component name="PowerModeII">
-    <option name="customBamImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
-    <option name="customFlameImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="enabled" value="false" />
-    <option name="shakeRange" value="3" />
-    <option name="soundsFolder" value="$APPLICATION_HOME_DIR$/bin" />
-    <option name="sparkCount" value="11" />
   </component>
 </application>
