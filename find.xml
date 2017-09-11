@@ -27,6 +27,9 @@
       <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
