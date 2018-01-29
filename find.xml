@@ -5,20 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.inc" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.ss</mask>
-      <mask>.</mask>
-      <mask>.js</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.j</mask>
@@ -32,11 +20,23 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.inc</mask>
-      <mask>*.in</mask>
-      <mask>*.i</mask>
-      <mask>*.</mask>
+      <mask>*.inc|*.php</mask>
+      <mask>*.inc|*.ph</mask>
+      <mask>*.inc|*.p</mask>
+      <mask>*.inc|*.</mask>
+      <mask>*.inc|*</mask>
+      <mask>*.inc|</mask>
+      <mask>*.inc|p</mask>
+      <mask>*.inc|php]</mask>
+      <mask>*.inc|php</mask>
+      <mask>*.[inc|php]</mask>
+      <mask>*.[inc|php</mask>
+      <mask>*.[</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.in</mask>
+      <mask>*.inc</mask>
     </recentFileMasks>
   </component>
 </application>
