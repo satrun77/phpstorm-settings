@@ -6,37 +6,16 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
-    <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*.hp</mask>
-      <mask>*.inc|*.php</mask>
-      <mask>*.inc|*.ph</mask>
-      <mask>*.inc|*.p</mask>
-      <mask>*.inc|*.</mask>
-      <mask>*.inc|*</mask>
-      <mask>*.inc|</mask>
-      <mask>*.inc|p</mask>
-      <mask>*.inc|php]</mask>
-      <mask>*.inc|php</mask>
-      <mask>*.[inc|php]</mask>
-      <mask>*.[inc|php</mask>
-      <mask>*.[</mask>
-      <mask>*.i</mask>
-      <mask>*.in</mask>
-      <mask>*.inc</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.</mask>
-      <mask>*.php</mask>
-      <mask>*</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*</mask>
   </component>
 </application>
