@@ -4,12 +4,12 @@
     <property name="created">2018-03-01T10:28:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-07-23T13:52:49</property>
+    <property name="modified">2018-07-27T16:55:38</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code iScript" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
