@@ -8,6 +8,7 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern=".method" type="PLAIN_TEXT" />
       <mapping pattern=".netrc" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".ss" type="PLAIN_TEXT" />
