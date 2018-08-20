@@ -8,6 +8,7 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern=".method" type="PLAIN_TEXT" />
       <mapping pattern=".netrc" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".ss" type="PLAIN_TEXT" />
@@ -35,6 +36,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="php-example" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern=".moo.yml-sample" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
