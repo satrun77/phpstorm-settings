@@ -35,6 +35,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="php-example" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern=".moo.yml-sample" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
