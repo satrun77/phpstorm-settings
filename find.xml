@@ -18,12 +18,12 @@
     <mask>*.mxml</mask>
     <mask>*.json</mask>
     <mask>*.vue</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.ss</mask>
     <mask>*s</mask>
+    <mask>*.scss</mask>
     <mask>*</mask>
   </component>
 </application>
