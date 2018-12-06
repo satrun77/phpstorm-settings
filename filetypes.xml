@@ -33,6 +33,7 @@
       <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
+      <mapping ext="babelrc" type="PLAIN_TEXT" />
       <mapping ext="js___jb_bak___" type="PLAIN_TEXT" />
       <mapping ext="ss___jb_bak___" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
