@@ -24,6 +24,7 @@
     <mask>*.ss44</mask>
     <mask>*.ss</mask>
     <mask>*.scss</mask>
+    <mask>*.php</mask>
     <mask>*</mask>
     <mask>*.php</mask>
   </component>
