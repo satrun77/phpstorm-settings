@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
@@ -17,13 +19,13 @@
     <mask>*.json</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*s</mask>
     <mask>*.ss44</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.ss</mask>
+    <mask>*.yml</mask>
     <mask>*</mask>
   </component>
 </application>
