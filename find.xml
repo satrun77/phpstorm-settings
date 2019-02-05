@@ -22,10 +22,10 @@
     <mask>*s</mask>
     <mask>*.ss44</mask>
     <mask>*.scss</mask>
+    <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.ss</mask>
-    <mask>*.yml</mask>
     <mask>*</mask>
   </component>
 </application>
