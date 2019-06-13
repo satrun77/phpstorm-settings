@@ -17,10 +17,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
-    <mask>*.ss</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
+    <mask>*.ss</mask>
     <mask>*</mask>
   </component>
 </application>
