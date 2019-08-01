@@ -20,6 +20,7 @@
       <mapping pattern=".jshint" type="PLAIN_TEXT" />
       <mapping pattern=".netrc" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
+      <mapping pattern=".1htaccess" type="PLAIN_TEXT" />
       <mapping pattern="RoutesCest" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
