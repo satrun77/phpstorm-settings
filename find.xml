@@ -17,8 +17,8 @@
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
-    <mask>*.php</mask>
     <mask>*.ss</mask>
+    <mask>*.php</mask>
     <mask>*</mask>
   </component>
 </application>
