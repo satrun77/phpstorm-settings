@@ -11,10 +11,10 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
-      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
       <mapping pattern=".method" type="PLAIN_TEXT" />
       <mapping pattern=".netrc" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".ss" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="RoutesCest" type="PLAIN_TEXT" />
