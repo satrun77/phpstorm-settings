@@ -18,6 +18,7 @@
       <mapping pattern=".ss" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="RoutesCest" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.cache" type="PLAIN_TEXT" />
       <mapping pattern="node_type_form" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".NoticesAdmin.php.swp" type="PLAIN_TEXT" />
