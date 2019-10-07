@@ -22,9 +22,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".NoticesAdmin.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".local_profile" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="form_form1" type="PLAIN_TEXT" />
       <mapping pattern=".1htaccess" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern=".jshint" type="PLAIN_TEXT" />
       <mapping pattern=".env-o" type="PLAIN_TEXT" />
