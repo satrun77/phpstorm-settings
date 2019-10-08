@@ -15,10 +15,10 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.ss</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
     <mask>*</mask>
   </component>
 </application>
