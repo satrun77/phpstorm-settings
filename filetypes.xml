@@ -11,10 +11,10 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
       <mapping pattern=".method" type="PLAIN_TEXT" />
       <mapping pattern=".netrc" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".ss" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="RoutesCest" type="PLAIN_TEXT" />
@@ -23,9 +23,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".NoticesAdmin.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".local_profile" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="form_form1" type="PLAIN_TEXT" />
       <mapping pattern=".1htaccess" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern=".jshint" type="PLAIN_TEXT" />
       <mapping pattern=".env-o" type="PLAIN_TEXT" />
