@@ -16,11 +16,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.html</mask>
-    <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.ss</mask>
+    <mask>*.yml</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
