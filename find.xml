@@ -19,11 +19,11 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
-    <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.ss</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
