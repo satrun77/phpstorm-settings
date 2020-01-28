@@ -40,8 +40,10 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="mc" type="PLAIN_TEXT" />
+      <mapping ext="sss" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
+      <mapping ext="scss1" type="PLAIN_TEXT" />
       <mapping ext="js___jb_bak___" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
