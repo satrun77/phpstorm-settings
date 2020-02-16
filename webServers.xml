@@ -41,7 +41,7 @@
         <fileTransfer mountedRoot="/Volumes/Websites-1/education.samdog.co.nz/public_html" accessType="MOUNT" />
       </webServer>
       <webServer id="cf2469ec-f1b7-4fc3-af3f-f5be83a107e7" name="building.moo" url="http://192.168.0.178:1059/">
-        <fileTransfer port="0" mountedRoot="/Volumes/mohamed.alsharaf/workspace/building.mo/site" accessType="MOUNT" />
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
