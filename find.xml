@@ -15,13 +15,13 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.js</mask>
-    <mask>*.ss</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*s</mask>
+    <mask>*.ss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
