@@ -13,11 +13,11 @@
     <mask>*.mxml</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*s</mask>
     <mask>*.js</mask>
     <mask>*.ss</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
