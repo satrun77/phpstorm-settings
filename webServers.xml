@@ -18,8 +18,8 @@
       <webServer id="dc26492d-7573-42ab-8168-3e96d761e13c" name="Test" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="44277f2d-62d7-40d3-ac97-e7839a0ac5a2" name="drupal7" url="http://drupal7.dev/">
-        <fileTransfer accessType="LOCAL" />
+      <webServer id="44277f2d-62d7-40d3-ac97-e7839a0ac5a2" name="drupal7" url="http://192.168.0.178:1061/">
+        <fileTransfer port="0" mountedRoot="/Volumes/mohamed.alsharaf/workspace/ccloud.mo/site" accessType="MOUNT" />
       </webServer>
       <webServer id="8f74ebce-74c6-46d4-a6b2-0ac1182da2f3" name="Silver" url="http://silver.dev/">
         <fileTransfer accessType="LOCAL" />
@@ -30,11 +30,6 @@
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="029cd08f-e40c-459f-9559-990d6da6e494" name="msdskip.samdog.co.nz" url="http://msdskip.samdog.co.nz/">
-        <fileTransfer host="dev.samdog.co.nz" port="8022" rootFolder="/var/www/msdskip.samdog.co.nz/public_html/app" accessType="SFTP">
-          <option name="port" value="8022" />
         </fileTransfer>
       </webServer>
       <webServer id="ea52cf67-834b-425e-a52a-5d5f2c34d144" name="education" url="http://education.samdog.co.nz">
