@@ -21,17 +21,6 @@
       <webServer id="8f74ebce-74c6-46d4-a6b2-0ac1182da2f3" name="Silver" url="http://silver.dev/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="5867a0f9-f028-4e12-b395-af514dc6d001" name="Dev Server - Work" url="http://192.168.1.4">
-        <fileTransfer host="192.168.1.4" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="ea52cf67-834b-425e-a52a-5d5f2c34d144" name="education" url="http://education.samdog.co.nz">
-        <fileTransfer mountedRoot="/Volumes/Websites-1/education.samdog.co.nz/public_html" accessType="MOUNT" />
-      </webServer>
     </option>
   </component>
 </application>
