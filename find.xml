@@ -18,6 +18,7 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.njk</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
