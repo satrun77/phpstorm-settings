@@ -18,8 +18,8 @@
     <mask>*.scss</mask>
     <mask>*.njk</mask>
     <mask>*.php</mask>
-    <mask>*</mask>
     <mask>*.yml</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
