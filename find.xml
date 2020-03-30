@@ -19,9 +19,9 @@
     <mask>*.scss</mask>
     <mask>*.njk</mask>
     <mask>*.ss</mask>
-    <mask>*</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
