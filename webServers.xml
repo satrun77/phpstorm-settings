@@ -5,10 +5,5 @@
         <option name="hostKeyCheckingLevel" value="NO" />
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
-    <option name="servers">
-      <webServer id="47c2cf52-0e84-40b2-861a-0acb38798389" name="Traffic" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
   </component>
 </application>
