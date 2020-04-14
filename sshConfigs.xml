@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="192.168.0.178" id="aedc7d93-a7ce-4941-bc8f-1e82159e959e" port="22" customName="work" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.0.178" id="e4b13ede-16bf-4894-a0d9-ca2e6f015c5d" port="22" customName="work" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
