@@ -21,8 +21,8 @@
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
-    <mask>*</mask>
     <mask>*.php</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
