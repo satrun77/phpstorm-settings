@@ -19,12 +19,12 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.njk</mask>
-    <mask>*.ss</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.ss</mask>
     <mask>*</mask>
   </component>
 </application>
