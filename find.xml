@@ -23,8 +23,8 @@
     <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*</mask>
     <mask>*.ss</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
