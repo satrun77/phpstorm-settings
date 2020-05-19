@@ -17,11 +17,11 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.njk</mask>
-    <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>*.ss</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
