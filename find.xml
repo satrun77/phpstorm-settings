@@ -19,8 +19,8 @@
     <mask>*.scss</mask>
     <mask>*.ss</mask>
     <mask>*.php</mask>
-    <mask>*</mask>
     <mask>*.yml</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
