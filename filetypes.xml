@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping ext="ajs" type="JavaScript" />
       <mapping pattern="note-migration" type="PLAIN_TEXT" />
-      <mapping ext="scss" type="PLAIN_TEXT" />
-      <removed_mapping ext="scss" type="SCSS" />
     </extensionMap>
   </component>
 </application>
