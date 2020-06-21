@@ -20,11 +20,11 @@
     <mask>*.njk</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
-    <mask>*.ss</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.ss</mask>
     <mask>*</mask>
   </component>
 </application>
