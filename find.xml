@@ -20,8 +20,8 @@
     <mask>*.vue</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.ss</mask>
+    <mask>*.php</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
