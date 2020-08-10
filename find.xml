@@ -21,9 +21,9 @@
     <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
     <mask>*.ss</mask>
     <mask>*.scss</mask>
-    <mask>*.php</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
