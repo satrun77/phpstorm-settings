@@ -6,11 +6,17 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="5c373312-9942-4f38-927f-5b8982eb2147" name="farmer" url="http://localhost">
+        <fileTransfer mountedRoot="/Volumes/mohamed.alsharaf/workspace/farming.mo/site" accessType="MOUNT" port="0" />
+      </webServer>
       <webServer id="1b760417-05e5-4619-a530-e0c5be5c64d6" name="work" url="http://192.168.0.178:1059/">
-        <fileTransfer rootFolder="/Users/mohamed.alsharaf" accessType="SFTP" host="192.168.0.178" port="22" sshConfigId="e4b13ede-16bf-4894-a0d9-ca2e6f015c5d" sshConfig="work" />
+        <fileTransfer rootFolder="/Users/mohamed.alsharaf" accessType="SFTP" host="192.168.0.178" port="22" sshConfigId="aedc7d93-a7ce-4941-bc8f-1e82159e959e" sshConfig="work" />
       </webServer>
       <webServer id="a9cd2dbc-ab60-4ffd-ae60-bc89e58f4878" name="hud" url="http://192.168.0.178:1059/">
         <fileTransfer rootFolder="/Users/mohamed.alsharaf" accessType="SFTP" host="192.168.0.178" port="22" sshConfigId="aedc7d93-a7ce-4941-bc8f-1e82159e959e" sshConfig="work" />
+      </webServer>
+      <webServer id="d5b1b29c-b131-4f70-a3cc-a9e3d8997beb" name="Smart investor" url="http://localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
   </component>

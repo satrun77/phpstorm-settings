@@ -18,14 +18,14 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*s</mask>
-    <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.njk</mask>
-    <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
-    <mask>*.ss</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.ss</mask>
+    <mask>*.scss</mask>
+    <mask>*.yml</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
