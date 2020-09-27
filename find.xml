@@ -20,9 +20,9 @@
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.json</mask>
-    <mask>*</mask>
     <mask>*php</mask>
     <mask>*.js</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
