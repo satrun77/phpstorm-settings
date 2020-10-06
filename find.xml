@@ -26,8 +26,8 @@
     <mask>*.js</mask>
     <mask>*.ss</mask>
     <mask>*.</mask>
-    <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.php</mask>
     <mask>*</mask>
   </component>
 </application>
