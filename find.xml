@@ -19,7 +19,6 @@
     <mask>*.njk</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
-    <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*php</mask>
     <mask>*.</mask>
@@ -27,6 +26,7 @@
     <mask>*.ss</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
