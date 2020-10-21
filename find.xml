@@ -23,11 +23,11 @@
     <mask>*php</mask>
     <mask>*.</mask>
     <mask>*.js</mask>
-    <mask>*.ss</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*</mask>
+    <mask>*.ss</mask>
     <mask>*</mask>
   </component>
 </application>
