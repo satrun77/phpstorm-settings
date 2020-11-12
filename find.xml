@@ -22,9 +22,9 @@
     <mask>*.scss</mask>
     <mask>*.ss</mask>
     <mask>*.yml</mask>
-    <mask>*</mask>
     <mask>*.php.</mask>
     <mask>*.php</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
