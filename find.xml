@@ -18,13 +18,13 @@
     <mask>*php</mask>
     <mask>*.</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.ss</mask>
     <mask>*.yml</mask>
     <mask>*.php.</mask>
     <mask>*.php</mask>
     <mask>*</mask>
     <mask>*</mask>
+    <mask>*.scss</mask>
     <mask>*.vue</mask>
   </component>
 </application>
