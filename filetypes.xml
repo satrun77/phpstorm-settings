@@ -11,6 +11,7 @@
       <mapping pattern="_notes" type="PLAIN_TEXT" />
       <mapping pattern="note-migration" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping pattern=".asd" type="Shell Script" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
