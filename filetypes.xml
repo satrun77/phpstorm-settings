@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="ajs" type="JavaScript" />
       <mapping pattern="page" type="PLAIN_TEXT" />
       <mapping pattern="js-sage" type="PLAIN_TEXT" />
