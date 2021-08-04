@@ -19,11 +19,11 @@
     <mask>*.</mask>
     <mask>*.js</mask>
     <mask>*.ss</mask>
-    <mask>*.yml</mask>
     <mask>*.php.</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
