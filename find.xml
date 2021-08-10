@@ -26,8 +26,8 @@
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*Test.php</mask>
-    <mask>*</mask>
     <mask>*.js</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
