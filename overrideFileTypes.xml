@@ -1,0 +1,5 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Sites/westpac/cypress/integration/ContentSwitchBlock.feature" value="Cucumber" />
+  </component>
+</application>
