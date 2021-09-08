@@ -28,9 +28,9 @@
     <mask>*Test.php</mask>
     <mask>*.js</mask>
     <mask>*.feature</mask>
-    <mask>*</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
