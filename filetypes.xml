@@ -4,6 +4,7 @@
       <mapping pattern="phpfixer" type="AUTO_DETECTED" />
       <mapping ext="ajs" type="JavaScript" />
       <mapping pattern=".htaccess-new" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
       <mapping pattern="note-migration" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="_manifest_exclude" type="PLAIN_TEXT" />
