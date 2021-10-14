@@ -1,17 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="SearchResultExtension" type="AUTO_DETECTED" />
       <mapping pattern="phpfixer" type="AUTO_DETECTED" />
       <mapping ext="ajs" type="JavaScript" />
-      <mapping pattern=".htaccess-new" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
-      <mapping pattern="note-migration" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="_manifest_exclude" type="PLAIN_TEXT" />
       <mapping pattern="_notes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="js-sage" type="PLAIN_TEXT" />
       <mapping pattern="page" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess-new" type="PLAIN_TEXT" />
+      <mapping pattern="note-migration" type="PLAIN_TEXT" />
+      <mapping pattern="js-sage" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping pattern=".asd" type="Shell Script" />
       <mapping ext="njk" type="Twig" />
