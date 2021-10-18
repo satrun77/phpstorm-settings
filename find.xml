@@ -22,11 +22,11 @@
     <mask>*.vue</mask>
     <mask>*.feature</mask>
     <mask>*.yml</mask>
-    <mask>*.ss</mask>
     <mask>*Test.php</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.ss</mask>
     <mask>*</mask>
   </component>
 </application>
