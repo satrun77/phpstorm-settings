@@ -18,6 +18,7 @@
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping pattern=".asd" type="Shell Script" />
       <mapping ext="njk" type="Twig" />
+      <mapping ext="yml " type="YAML" />
     </extensionMap>
   </component>
 </application>
