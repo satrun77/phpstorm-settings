@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="SearchResultExtension" type="AUTO_DETECTED" />
       <mapping pattern="phpfixer" type="AUTO_DETECTED" />
+      <mapping pattern="asd" type="AUTO_DETECTED" />
       <mapping ext="ajs" type="JavaScript" />
       <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
