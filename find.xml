@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <mask>*.properties</mask>
@@ -25,9 +23,9 @@
     <mask>*.feature</mask>
     <mask>*Test.php</mask>
     <mask>*.js</mask>
-    <mask>*.ss</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.ss</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
