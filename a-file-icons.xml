@@ -1,0 +1,12 @@
+<application>
+  <component name="AtomFileIconsConfig">
+    <option name="hideFileIcons" value="true" />
+    <option name="hideFolderIcons" value="true" />
+    <option name="monochromeColor" value="546e7a" />
+    <option name="isHideFileIcons" value="true" />
+    <option name="isHideFolderIcons" value="true" />
+    <option name="arrowsStyle" value="Arrows" />
+    <option name="accentColor" value="84ffff" />
+    <option name="themedColor" value="4b526d" />
+  </component>
+</application>
