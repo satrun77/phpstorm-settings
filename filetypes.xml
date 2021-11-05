@@ -20,6 +20,7 @@
       <mapping ext="njk" type="Twig" />
       <mapping ext="dist" type="XML" />
       <mapping ext="yml " type="YAML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
