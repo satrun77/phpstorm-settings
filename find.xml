@@ -6,16 +6,12 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
-    <mask>*.properties</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*s</mask>
     <mask>*.njk</mask>
-    <mask>*.html</mask>
     <mask>*.json</mask>
     <mask>*php</mask>
     <mask>*.</mask>
@@ -26,8 +22,18 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*Test.php</mask>
-    <mask>*.php</mask>
     <mask>*.ss</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.php</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
