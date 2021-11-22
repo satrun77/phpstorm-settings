@@ -1,8 +1,10 @@
 <application>
   <component name="PowerModeII">
+    <option name="blueFrom" value="5" />
     <option name="customBamImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="customFlameImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="isCaretAction" value="true" />
+    <option name="shakeEnabled" value="true" />
     <option name="soundsFolder" value="$APPLICATION_HOME_DIR$/bin" />
   </component>
 </application>
