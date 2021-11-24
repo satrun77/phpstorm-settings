@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.php" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -32,7 +32,7 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*</mask>
-    <mask>*</mask>
     <mask>*Test.php</mask>
+    <mask>*</mask>
   </component>
 </application>
