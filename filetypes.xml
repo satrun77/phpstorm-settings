@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="SearchResultExtension" type="AUTO_DETECTED" />
       <mapping pattern="two" type="AUTO_DETECTED" />
+      <mapping pattern="oe" type="AUTO_DETECTED" />
       <mapping pattern="one" type="AUTO_DETECTED" />
       <mapping pattern="phpfixer" type="AUTO_DETECTED" />
       <mapping pattern="asd" type="AUTO_DETECTED" />
