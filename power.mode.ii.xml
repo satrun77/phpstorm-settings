@@ -3,8 +3,14 @@
     <option name="blueFrom" value="5" />
     <option name="customBamImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="customFlameImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
+    <option name="flameLife" value="2868" />
+    <option name="greenFrom" value="14" />
     <option name="isCaretAction" value="true" />
+    <option name="keyStrokesPerMinute" value="356" />
+    <option name="maxFlameSize" value="125" />
+    <option name="redFrom" value="7" />
     <option name="shakeEnabled" value="true" />
+    <option name="shakeRange" value="2" />
     <option name="soundsFolder" value="$APPLICATION_HOME_DIR$/bin" />
   </component>
 </application>
