@@ -1,16 +1,18 @@
 <application>
   <component name="PowerModeII">
-    <option name="blueFrom" value="5" />
+    <option name="bamLife" value="1199" />
+    <option name="blueFrom" value="9" />
     <option name="customBamImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="customFlameImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
-    <option name="flameLife" value="2868" />
-    <option name="greenFrom" value="14" />
+    <option name="flameLife" value="3080" />
+    <option name="greenFrom" value="37" />
     <option name="isCaretAction" value="true" />
     <option name="keyStrokesPerMinute" value="356" />
-    <option name="maxFlameSize" value="125" />
-    <option name="redFrom" value="7" />
+    <option name="maxFlameSize" value="109" />
+    <option name="redFrom" value="23" />
     <option name="shakeEnabled" value="true" />
     <option name="shakeRange" value="2" />
     <option name="soundsFolder" value="$APPLICATION_HOME_DIR$/bin" />
+    <option name="sparkCount" value="16" />
   </component>
 </application>
