@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="silverstripe_version" type="AUTO_DETECTED" />
       <mapping pattern="SearchResultExtension" type="AUTO_DETECTED" />
       <mapping pattern="two" type="AUTO_DETECTED" />
       <mapping pattern="oe" type="AUTO_DETECTED" />
