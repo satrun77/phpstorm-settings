@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="silverstripe_version" type="AUTO_DETECTED" />
+      <mapping pattern="aa" type="AUTO_DETECTED" />
+      <mapping pattern="12" type="AUTO_DETECTED" />
+      <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="SearchResultExtension" type="AUTO_DETECTED" />
       <mapping pattern="two" type="AUTO_DETECTED" />
       <mapping pattern="oe" type="AUTO_DETECTED" />
