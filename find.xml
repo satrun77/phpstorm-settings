@@ -34,9 +34,9 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*</mask>
+    <mask>*.php</mask>
     <mask>*</mask>
   </component>
 </application>
