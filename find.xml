@@ -20,6 +20,10 @@
     <mask>*.feature</mask>
     <mask>*Test.php</mask>
     <mask>*.ss</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>*.yml</mask>
+    <mask>*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -30,11 +34,7 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.scss</mask>
-    <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
-    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
