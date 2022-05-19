@@ -19,7 +19,6 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*Test.php</mask>
-    <mask>*.ss</mask>
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -32,6 +31,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.ss</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
