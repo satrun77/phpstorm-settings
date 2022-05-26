@@ -11,6 +11,7 @@
       <mapping pattern="two" type="AUTO_DETECTED" />
       <mapping pattern="oe" type="AUTO_DETECTED" />
       <mapping pattern="one" type="AUTO_DETECTED" />
+      <mapping pattern="archiveorderid" type="AUTO_DETECTED" />
       <mapping pattern="phpfixer" type="AUTO_DETECTED" />
       <mapping pattern="asd" type="AUTO_DETECTED" />
       <mapping pattern="s" type="AUTO_DETECTED" />
