@@ -21,6 +21,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="_manifest_exclude" type="PLAIN_TEXT" />
       <mapping pattern="_notes" type="PLAIN_TEXT" />
+      <mapping pattern=".env1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="page" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess-new" type="PLAIN_TEXT" />
