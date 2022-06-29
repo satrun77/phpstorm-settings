@@ -29,6 +29,8 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="js-sage" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping pattern=".asd" type="Shell Script" />
       <mapping ext="njk" type="Twig" />
       <mapping ext="dist" type="XML" />
