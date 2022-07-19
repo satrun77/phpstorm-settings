@@ -24,7 +24,6 @@
     <mask>*Test.php</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
-    <mask>*.ss</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -36,6 +35,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.ss</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
