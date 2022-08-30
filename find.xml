@@ -33,10 +33,10 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.ss</mask>
     <mask>*Test.php</mask>
     <mask>*</mask>
     <mask>*</mask>
+    <mask>*.ss</mask>
     <mask>*.php</mask>
   </component>
 </application>
