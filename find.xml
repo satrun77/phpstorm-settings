@@ -32,9 +32,9 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*Test.php</mask>
-    <mask>*</mask>
     <mask>*.ss</mask>
     <mask>*.php</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
