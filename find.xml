@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/php-saml/src'" />
-    <option name="defaultScopeName" value="Directory '…/php-saml/src'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…/php-saml/src'" />
-    <option name="FILE_MASK" value="*" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -34,7 +34,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*</mask>
-    <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
