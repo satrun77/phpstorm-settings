@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/ss-oauth2-server/code'" />
-    <option name="defaultScopeName" value="Directory '…/ss-oauth2-server/code'" />
+    <option name="customScope" value="Directory '…/code'" />
+    <option name="defaultScopeName" value="Directory '…/code'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…/ss-oauth2-server/code'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/code'" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -23,6 +23,8 @@
     <mask>*Test.php</mask>
     <mask>*.ss</mask>
     <mask>*.yml</mask>
+    <mask>*</mask>
+    <mask>*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -33,8 +35,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*</mask>
-    <mask>*</mask>
     <mask>*.php</mask>
   </component>
 </application>
