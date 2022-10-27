@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/app'" />
-    <option name="defaultScopeName" value="Directory '…/app'" />
-    <option name="SEARCH_SCOPE" value="Directory '…/app'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -20,6 +20,7 @@
     <mask>*Test.php</mask>
     <mask>*.yml</mask>
     <mask>*.ss</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -30,7 +31,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*</mask>
     <mask>*</mask>
