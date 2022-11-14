@@ -10,6 +10,9 @@
   <PHPCodeStyleSettings>
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
