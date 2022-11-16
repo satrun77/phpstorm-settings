@@ -31,8 +31,8 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
-    <mask>*</mask>
     <mask>*.js</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
