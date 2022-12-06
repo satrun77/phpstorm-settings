@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
-    <mask>*.jsp</mask>
+    <option name="FILE_MASK" value="*.php11" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -34,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*</mask>
     <mask>*</mask>
+    <mask>*.php11</mask>
   </component>
 </application>
