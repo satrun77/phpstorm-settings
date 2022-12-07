@@ -32,9 +32,9 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php11</mask>
-    <mask>*</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
