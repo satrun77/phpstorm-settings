@@ -21,6 +21,8 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.ss</mask>
+    <mask>*.php11</mask>
+    <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -31,8 +33,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.php11</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*</mask>
     <mask>*</mask>
